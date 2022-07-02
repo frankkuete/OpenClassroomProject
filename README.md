@@ -1,7 +1,11 @@
 # Github Learning 
 
 # small repo to play around with Git commands ,these followings are main thing to know about GIT
-- create a repo localy (with __git init__)
+
+- create a repo localy : 
+```
+__git init__
+```
 - Create and delete repo on github
 - link an existing local repo with gitrepo __git remote add origin 'link to the repo' and git branch -M main__
 - Adding file to the index local (with __git add__)
